@@ -15,3 +15,7 @@ We work out who to write to, what to say, and when to send it, then draft the em
 1. **Write in plain English.** Use short sentences and everyday words. Avoid jargon.
 2. **Never send email to real people.** Only plan and draft here. Any sending is done by me, by hand, outside this studio.
 3. **Ask me before deleting anything.** This includes files, folders and drafts.
+
+## Brand voice
+
+@brand/voice.md
