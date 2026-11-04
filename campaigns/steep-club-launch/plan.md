@@ -5,7 +5,7 @@
 **Channel:** Email only. No paid ads.
 **Written:** 4 November 2026. **Updated:** 4 November 2026 with your answers.
 
-> **Before you read on:** almost every fact is now confirmed (see part 11). Three small questions are left, marked **[TBC]**. We must not guess them in any email.
+> **Before you read on:** almost every fact is now confirmed (see part 11). One small question is left, marked **[TBC]**. We must not guess it in any email.
 
 ---
 
@@ -82,6 +82,8 @@ Three loose-leaf teas, 50 g each, plus a steeping card with times and temperatur
 **Gifts**
 
 - Gifts are prepaid for **3 or 6 months**, with **no auto-renewal**. The buyer picks the start month.
+- **$72 for 3 months, $144 for 6 months.** Both ship free, because they're over $40.
+- The waitlist free-shipping perk doesn't apply to gifts, because gifts already ship free. In gift emails we just say "shipping is free".
 - **Order by 18 December** for delivery before Christmas. The courier has confirmed this date.
 - **19 to 24 December:** e-gift. A printable gift card is emailed straight away, and the first box ships on 5 January.
 
@@ -99,7 +101,7 @@ Three loose-leaf teas, 50 g each, plus a steeping card with times and temperatur
 | 1 | **It's easy.** We pick the teas. The steeping card tells you the time and temperature, and the strainer is in the box. No extra kit needed. | Beginners | Steeping card and strainer in every first box. |
 | 2 | **A calm cup for your afternoon.** A small ritual that swaps one coffee for something gentler. | Beginners, daily drinkers | Jasmine Silver Needle is lower in caffeine than coffee. Lemon Ginger Calm is naturally caffeine-free. |
 | 3 | **A step up from tea bags.** Three loose-leaf teas from places we can name. | Daily drinkers | Assam, India and Fujian, China. The white tea is from this season's harvest. |
-| 4 | **A gift that keeps arriving.** Three or six months of tea, prepaid, with no renewal to worry about. | Gift buyers | 3- or 6-month gifts, no auto-renewal, order by 18 December for Christmas. |
+| 4 | **A gift that keeps arriving.** Three or six months of tea, prepaid, with no renewal to worry about. | Gift buyers | $72 for 3 months or $144 for 6, free shipping, no auto-renewal, order by 18 December for Christmas. |
 | 5 | **You stay in control.** One click to skip or cancel, any time before the 1st. | Everyone, especially daily drinkers | My Account → Steep Club. |
 
 **Calls to action (one per email):** "Start your box" or "See what's in your first box". For gift buyers: "Send a box as a gift".
@@ -150,7 +152,7 @@ We are using email only. That suits this campaign: the list already wants to hea
 |---|---|---|---|---|
 | Mon 7 Dec | **E1: The Steep Club is open.** Short, warm. What's in the first box, $24 a month, free shipping on your first box if you join by 31 December, first box ships 5 January. One button. A different opening line for each group. Gift buyers' version leads with gifts. | Everyone | Most of the month's joins come from this email. | Not started |
 | Thu 10 Dec | **E2a: How to steep, in three steps.** The card, the strainer, the kettle. That's it. | Beginners who haven't joined | Remove the "it's fiddly" worry. | Not started |
-| Thu 10 Dec | **E2b: A gift that keeps arriving.** 3 or 6 months, prepaid, no renewal. Order by 18 December for Christmas. | Gift buyers who haven't bought | Get gift orders in early. | Not started |
+| Thu 10 Dec | **E2b: A gift that keeps arriving.** $72 for 3 months or $144 for 6, prepaid, free shipping, no renewal. Order by 18 December for Christmas. | Gift buyers who haven't bought | Get gift orders in early. | Not started |
 | Thu 10 Dec | **E2c: Meet the teas in your first box.** Morning Assam from Assam, India. Jasmine Silver Needle from Fujian, China, picked from this season's harvest. Lemon Ginger Calm, blended by us. Simple taste words. | Daily drinkers who haven't joined | Show the step up from tea bags. | Not started |
 
 **Week 2: Answering questions (14 to 20 December)**
@@ -178,7 +180,7 @@ We are using email only. That suits this campaign: the list already wants to hea
 
 *Why E6 moved:* the first version had it on Saturday 2 January. Your free-shipping date is 31 December, so a note after that would be pointless. Wednesday 30 December gives people one day's honest notice.
 
-*Gift buyers and E6:* left out for now, because we don't know if the free-shipping perk applies to gifts (see part 11). If it does, they can get E6 too.
+*Gift buyers and E6:* they don't get it. E6 is about the 31 December free-shipping date, and gifts already ship free.
 
 **Most emails any one person gets:** beginners 5, daily drinkers 5, gift buyers 5. Fewer if they join.
 
@@ -301,7 +303,8 @@ The budget is small and email only, so the main cost is time, not money.
 - What's in the first box, each tea's type, origin and caffeine wording
 - Only the white tea is from this season's harvest
 - Ship date (5th), renewal date (1st), one-click skip or cancel
-- Gift options, Christmas order-by date (18 December), e-gift (19 to 24 December)
+- Gift options and prices ($72 for 3 months, $144 for 6, free shipping), Christmas order-by date (18 December), e-gift (19 to 24 December)
+- The waitlist perk doesn't apply to gifts, since they already ship free
 - Group sizes, and that everyone already has a group
 - Waitlist perk: free shipping on the first box if they join by 31 December
 - Target 300, good result 200
@@ -310,8 +313,6 @@ The budget is small and email only, so the main cost is time, not money.
 
 | Question | Why it matters |
 |---|---|
-| What do the 3- and 6-month gifts cost, and do they ship free? (They're over $40, so probably yes.) | E2b, E3g and E5g should state the real gift price. |
-| Does the waitlist free-shipping perk apply to gifts too? | Decides whether gift buyers get E6 and the perk line. |
 | When are December joiners first charged: when they join, or on 1 January? | The welcome email and E3 should say this plainly. No hidden charges. |
 
 ---
@@ -320,7 +321,7 @@ The budget is small and email only, so the main cost is time, not money.
 
 **Right now:**
 
-1. Answer the three questions in part 11.
+1. Answer the last question in part 11.
 2. Tag the list by group in your email tool.
 3. Test joining, gifting, e-gift and cancelling yourself.
 
