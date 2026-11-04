@@ -5,7 +5,7 @@
 **Channel:** Email only. No paid ads.
 **Written:** 4 November 2026. **Updated:** 4 November 2026 with your answers.
 
-> **Before you read on:** almost every fact is now confirmed (see part 11). One small question is left, marked **[TBC]**. We must not guess it in any email.
+> **Before you read on:** every fact is now confirmed (see parts 3 and 11). Emails must use them exactly as written, and nothing else.
 
 ---
 
@@ -73,6 +73,7 @@ Three loose-leaf teas, 50 g each, plus a steeping card with times and temperatur
 **Shipping, renewal and cancelling**
 
 - Boxes ship on the **5th** of each month. Your box renews on the **1st**.
+- **Members pay on the day they join.** For anyone joining in December, that first payment covers the 5 January box. The next charge is on **1 February**.
 - Members can skip or cancel in one click under **My Account → Steep Club**, any time before the 1st.
 - **Anyone who joins during this campaign gets their first box on 5 January.** We say this plainly in every email, so nobody expects a box before Christmas. It also fits the new-year idea well.
 
@@ -140,7 +141,7 @@ We are using email only. That suits this campaign: the list already wants to hea
 
 | Date | What | Who | Notes |
 |---|---|---|---|
-| Mon 30 Nov | Answer the three [TBC] questions in part 11 | You | |
+| Mon 30 Nov | Check the landing page matches the facts in part 3 | You | |
 | Tue 1 Dec | Tag the list by group in your email tool | You | Groups come from the sign-up form. |
 | Wed 2 Dec | Test joining, gifting, e-gift and one-click cancel yourself | You | Check the free shipping shows up for waitlist members. |
 | Thu 3 Dec | Draft and check all launch emails against the brand voice | Studio | Use `/marketing:brand-review` on each one. |
@@ -159,7 +160,7 @@ We are using email only. That suits this campaign: the list already wants to hea
 
 | Date | Email | Who gets it | Goal | Status |
 |---|---|---|---|---|
-| Tue 15 Dec | **E3: Your questions, answered.** How much caffeine is in each tea (honest wording from part 3), when the box ships and renews, how to skip or cancel in one click, what shipping costs. | Beginners and daily drinkers who haven't joined | Answer doubts. | Not started |
+| Tue 15 Dec | **E3: Your questions, answered.** How much caffeine is in each tea (honest wording from part 3), when you pay (the day you join, then the 1st of each month from 1 February), when the box ships, how to skip or cancel in one click, what shipping costs. | Beginners and daily drinkers who haven't joined | Answer doubts. | Not started |
 | Tue 15 Dec | **E3g: Christmas delivery, plainly.** Order by Friday 18 December for delivery before Christmas. After that, the e-gift is there until 24 December. | Gift buyers who haven't bought | Help them plan. A real date, said calmly. | Not started |
 
 **Week 3: Christmas week, mostly quiet (21 to 27 December)**
@@ -188,7 +189,7 @@ We are using email only. That suits this campaign: the list already wants to hea
 
 | Email | Sent when | What it must say | Sign-off |
 |---|---|---|---|
-| Welcome to The Steep Club | Someone starts their box | Thanks. Your first box ships 5 January. What's inside. How to steep. Renews on the 1st; skip or cancel in one click before then. | "Welcome to the club, and happy steeping," |
+| Welcome to The Steep Club | Someone starts their box | Thanks. You've paid for your first box today, and it ships 5 January. What's inside. How to steep. Next charge 1 February, then the 1st of each month; skip or cancel in one click before then. | "Welcome to the club, and happy steeping," |
 | Gift confirmation | Someone buys a 3- or 6-month gift | Start month, number of boxes, no auto-renewal. If ordered by 18 Dec with a December start: arrives before Christmas. | "Happy gifting," |
 | E-gift card email | Someone buys an e-gift (19 to 24 Dec) | The printable card. First box ships 5 January. | "Happy gifting," |
 | Skip or cancel confirmation | Someone skips or cancels | A plain confirmation, and "you're welcome back anytime". No guilt, no second "are you sure?" | "Warmly," |
@@ -309,11 +310,9 @@ The budget is small and email only, so the main cost is time, not money.
 - Waitlist perk: free shipping on the first box if they join by 31 December
 - Target 300, good result 200
 
-**Still open [TBC]:**
+- Members pay on the day they join; December joiners are next charged on 1 February
 
-| Question | Why it matters |
-|---|---|
-| When are December joiners first charged: when they join, or on 1 January? | The welcome email and E3 should say this plainly. No hidden charges. |
+**Still open:** nothing. Every fact is confirmed.
 
 ---
 
@@ -321,9 +320,8 @@ The budget is small and email only, so the main cost is time, not money.
 
 **Right now:**
 
-1. Answer the last question in part 11.
-2. Tag the list by group in your email tool.
-3. Test joining, gifting, e-gift and cancelling yourself.
+1. Tag the list by group in your email tool.
+2. Test joining, gifting, e-gift and cancelling yourself. Check you're charged on the day you join.
 
 **Then, in the studio:**
 
