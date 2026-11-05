@@ -18,7 +18,7 @@ You pay on the day you join. That first payment covers your box on 5 January. Yo
 Boxes ship on the 5th of each month. **Your first box ships on 5 January.**
 
 **What does shipping cost?**
-Shipping is $4.50 a box. Join by 31 December and your first box ships free.
+Shipping is normally $4.50. Join by 31 December and your first box ships free.
 
 **Do I need any special kit?**
 No. Your first box comes with a steeping card that gives you the time and temperature for each tea, plus a small reusable strainer. A kettle and a mug are all you need.

@@ -78,7 +78,7 @@ Three loose-leaf teas, 50 g each, plus a steeping card with times and temperatur
 - **Anyone who joins during this campaign gets their first box on 5 January.** We say this plainly in every email, so nobody expects a box before Christmas. It also fits the new-year idea well.
 
 **Renewal line to use** (adjusted from the brand guide so it matches the real dates):
-> Your box renews on the 1st of each month. You can skip or cancel in one click from your account anytime before then.
+> You pay for your 5 January box on the day you join, and your next payment is on 1 February. Your box renews on the 1st of each month. You can skip or cancel in one click from your account anytime before then.
 
 **Gifts**
 
@@ -220,7 +220,7 @@ We are using email only. That suits this campaign: the list already wants to hea
 - E3: "Your questions about The Steep Club, answered"
 - E3g: "Order by 18 December for Christmas delivery"
 - E4g: "A tea gift you can give today"
-- E5: "A calmer afternoon, starting this January"
+- E5: "A calmer afternoon, starting in January"
 - E6: "A quick thank-you from Umaid"
 
 ---

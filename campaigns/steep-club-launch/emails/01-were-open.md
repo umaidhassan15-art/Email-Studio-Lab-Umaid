@@ -13,7 +13,7 @@ Each month we send you a small box of good tea, so you don't have to pick from a
 - **Jasmine Silver Needle**, a floral white tea from Fujian, China, picked from this season's harvest
 - **Lemon Ginger Calm**, a bright, gingery herbal blend we make ourselves. It has no tea leaves, so it's naturally caffeine-free.
 
-You get 50 g of each tea, a steeping card with times and temperatures, and a small reusable strainer. No extra kit needed.
+You get 50 g of each tea, a steeping card with times and temperatures, and a small reusable strainer. All you need is a kettle and a mug.
 
 **The details**
 

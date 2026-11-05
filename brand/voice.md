@@ -54,7 +54,7 @@ These are hard rules, stronger than the word list. Each one comes with a safe th
 | **Origin** | "Single-estate", "organic", "direct from the farmer" or "fair trade", unless we can prove it with certification. | Name the region only when we know it: "a black tea from Assam". |
 | **Price and savings** | Made-up savings ("save 50%", "worth $80"). "The cheapest." "Best value anywhere." Hidden shipping costs. | State the real price and what's in the box. |
 | **Freshness and rarity** | "Rare", "exclusive", "only 100 boxes left", "freshest tea in the world", unless it's true and we can show it. | "Picked from this season's harvest", only when it is. |
-| **Cancelling** | "Cancel anytime" if cancelling isn't really one click. Hiding the renewal. | "Your box renews monthly. You can skip or cancel from your account anytime before the next one ships." |
+| **Cancelling** | "Cancel anytime" if cancelling isn't really one click. Hiding the renewal. | "Your box renews on the 1st of each month. You can skip or cancel in one click from your account anytime before then." In launch emails, say when people pay first: "You pay for your 5 January box on the day you join, and your next payment is on 1 February." |
 | **Reviews and numbers** | Made-up reviews, star ratings or member counts. | Only real quotes and real figures. |
 
 ---

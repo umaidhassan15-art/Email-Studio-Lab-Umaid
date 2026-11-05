@@ -12,7 +12,7 @@ That's what The Steep Club is for. Put the kettle on, steep for a few minutes, a
 **Your first box ships on 5 January**, right at the start of the year. Inside:
 
 - **Jasmine Silver Needle**, a floral white tea from Fujian, China, picked from this season's harvest. It's lower in caffeine than coffee.
-- **Lemon Ginger Calm**, a bright, gingery herbal blend. It's naturally caffeine-free.
+- **Lemon Ginger Calm**, a bright, gingery herbal blend. It has no tea leaves, so it's naturally caffeine-free.
 - **Morning Assam**, a malty black tea from Assam, India.
 
 There's also a steeping card with times and temperatures, and a small reusable strainer. All you need is a kettle and a mug.
