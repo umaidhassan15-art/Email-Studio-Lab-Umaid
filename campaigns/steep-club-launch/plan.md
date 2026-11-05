@@ -174,7 +174,7 @@ We are using email only. That suits this campaign: the list already wants to hea
 
 | Date | Email | Who gets it | Goal | Status |
 |---|---|---|---|---|
-| Mon 28 Dec | **E5: A small ritual for the new year.** Your first box arrives in the first week of January. Swapping one afternoon coffee for a calm cup. No "new year, new you" pressure, no health claims. | Beginners and daily drinkers who haven't joined | Second big push. New-year routines fit well. | Not started |
+| Mon 28 Dec | **E5: A small ritual for the new year.** Your first box ships on 5 January. Swapping one afternoon coffee for a calm cup. No "new year, new you" pressure, no health claims. | Beginners and daily drinkers who haven't joined | Second big push. New-year routines fit well. | Not started |
 | Mon 28 Dec | **E5g: A gift for after the holidays.** For birthdays, thank-yous, or a late present. The buyer picks the start month. | Gift buyers who haven't bought | Keep the gift idea alive past Christmas. | Not started |
 | Wed 30 Dec | **E6: A friendly note from Umaid.** Short and personal. Thanks for being on the waitlist. Says plainly that free shipping on the first box is open until tomorrow, 31 December. | Beginners and daily drinkers who haven't joined | Final, gentle invite. | Not started |
 | 1 to 3 Jan | No launch emails. | Everyone | The perk has ended. We don't keep pushing. | |
