@@ -19,13 +19,13 @@ You get 50 g of each tea, a steeping card with times and temperatures, and a sma
 
 - Your box is **$24 a month**.
 - Join by 31 December and your first box ships free. (Shipping is normally $4.50.)
-- **Your first box ships on 5 January.** So it's a calm start to the new year, not one more parcel in the Christmas rush.
+- **Your first box ships on 5 January.** It's a calm start to the new year, not one more parcel in the Christmas rush.
 
 [Start your box](https://kettlebird.example/steep-club)
 
-Your box renews on the 1st of each month. You can skip or cancel in one click from your account anytime before then.
+You pay for your 5 January box on the day you join, and your next payment is on 1 February. Your box renews on the 1st of each month. You can skip or cancel in one click from your account anytime before then.
 
-Looking for a present instead? The same page has gift boxes for 3 or 6 months, with free shipping and no renewal. Order by 18 December for delivery before Christmas.
+Looking for a present instead? The same page has gift boxes for 3 months ($72) or 6 months ($144), with free shipping and no renewal. Order by 18 December, with a December start, for delivery before Christmas.
 
 Happy steeping,
 Umaid and the Kettlebird team

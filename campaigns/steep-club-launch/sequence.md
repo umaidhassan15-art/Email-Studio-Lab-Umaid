@@ -65,7 +65,7 @@ Test on Email 1 and Email 3, as the plan suggests. Send each version to half of 
 | Email | Version A (in the file) | Version B |
 |---|---|---|
 | 1 | The Steep Club is open | Your first box is ready when you are |
-| 3 | A calmer afternoon, starting this January | A small ritual for the new year |
+| 3 | A calmer afternoon, starting in January | A small ritual for the new year |
 
 ## What to watch
 

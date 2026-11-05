@@ -1,4 +1,4 @@
-Subject: A calmer afternoon, starting this January
+Subject: A calmer afternoon, starting in January
 Preview: No big resolutions. Just one small swap: a calm cup instead of one coffee.
 
 Hi {{first_name}},
@@ -15,13 +15,13 @@ That's what The Steep Club is for. Put the kettle on, steep for a few minutes, a
 - **Lemon Ginger Calm**, a bright, gingery herbal blend. It's naturally caffeine-free.
 - **Morning Assam**, a malty black tea from Assam, India.
 
-There's also a steeping card with times and temperatures, and a small reusable strainer. Nothing else to buy.
+There's also a steeping card with times and temperatures, and a small reusable strainer. All you need is a kettle and a mug.
 
 Your box is **$24 a month**. Join by 31 December and your first box ships free.
 
 [Start your box](https://kettlebird.example/steep-club)
 
-Your box renews on the 1st of each month. You can skip or cancel in one click from your account anytime before then.
+You pay for your 5 January box on the day you join, and your next payment is on 1 February. Your box renews on the 1st of each month. You can skip or cancel in one click from your account anytime before then.
 
 Happy steeping,
 Umaid and the Kettlebird team
