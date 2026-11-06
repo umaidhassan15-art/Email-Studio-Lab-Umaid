@@ -14,6 +14,8 @@ We work out who to write to, what to say, and when to send it, then draft the em
 
 1. **Write in plain English.** Use short sentences and everyday words. Avoid jargon.
 2. **Never send email to real people.** Only plan and draft here. Any sending is done by me, by hand, outside this studio.
+   - The one exception is sending through Resend, and only to two kinds of address: Resend's test addresses (any address ending in `@resend.dev`) and my own address (the `MY_EMAIL` value in `.claude/settings.local.json`, which is not committed). Nobody else, not even one person on a lead list.
+   - A guard will enforce this in the next step. Until it is in place, follow this rule by hand.
 3. **Ask me before deleting anything.** This includes files, folders and drafts.
 
 ## Brand voice
