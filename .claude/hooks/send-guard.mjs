@@ -8,9 +8,20 @@ const ALWAYS_BLOCK = new Set([
   "create-automation",
   "send-inbox-draft",
   "send-new-inbox-email",
+  // A reply goes to whoever is on the thread. Those addresses are not in the
+  // request, so the guard cannot check them.
+  "reply-to-inbox-thread-email",
 ]);
 
-const CHECK_RECIPIENTS = new Set(["send-email", "send-batch-emails"]);
+const CHECK_RECIPIENTS = new Set([
+  "send-email",
+  "send-batch-emails",
+  "forward-inbox-thread-email",
+]);
+
+// Safety net: any other tool whose name says it sends, replies or forwards
+// is blocked until it is added to one of the lists above.
+const LOOKS_LIKE_SENDING = /(^|-)(send|reply|forward)(-|$)/;
 
 function block(reason) {
   process.stderr.write(`Send guard blocked this: ${reason}\n`);
@@ -49,7 +60,12 @@ if (ALWAYS_BLOCK.has(name)) {
   block(`${name} can reach whole lists of people, so it is never allowed here.`);
 }
 
-if (!CHECK_RECIPIENTS.has(name)) process.exit(0);
+if (!CHECK_RECIPIENTS.has(name)) {
+  if (LOOKS_LIKE_SENDING.test(name)) {
+    block(`${name} looks like it sends email, and the guard does not know how to check it yet.`);
+  }
+  process.exit(0);
+}
 
 const myEmail = (process.env.MY_EMAIL ?? "").trim().toLowerCase();
 const isAllowed = (addr) =>
