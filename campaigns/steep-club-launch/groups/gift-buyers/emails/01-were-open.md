@@ -1,4 +1,4 @@
-Subject: The Steep Club is open
+Subject: A calm cup for your afternoon
 Preview: Three loose-leaf teas, a steeping card and a strainer, for $24 a month.
 
 Hi {{first_name}},
