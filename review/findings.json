@@ -1,46 +1,33 @@
 {
+  "folder": "campaigns/test-bad",
   "findings": [
     {
-      "file": "campaigns/steep-club-launch/groups/gift-buyers/emails/02-your-questions.md",
-      "line": 24,
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 2,
       "severity": "high",
-      "problem": "This calls the monthly box 'an easy present for a friend', but every fact in the email is about the $24 monthly box that renews on the 1st. Gifts are a different product: $72 or $144, prepaid, with no renewal. A gift buyer who clicks 'Start your box' could set up a box that renews every month for a friend without meaning to. That breaks the 'never hide the renewal' rule in voice.md part 4. Also, sequence.md says gift buyers get Email 1 only, so this email shouldn't exist for this group.",
-      "fix": "Delete this gift-buyer version (ask Umaid first), or rewrite it around the gift facts: $72 for 3 months or $144 for 6, free shipping, no renewal, order by 18 December, e-gift 19 to 24 December. The button text could be 'Send a box as a gift'."
+      "problem": "Still not fixed. The preview says \"Last chance to join before the doors close.\" This is fake urgency. \"Last chance\" is on the banned list, and nothing says the doors are closing.",
+      "fix": "Use a friendly, honest preview, for example \"Your first monthly box of loose-leaf tea is ready when you are.\""
     },
     {
-      "file": "campaigns/steep-club-launch/groups/gift-buyers/emails/04-note-from-umaid.md",
+      "file": "campaigns/test-bad/emails/01-bad.md",
       "line": 8,
       "severity": "high",
-      "problem": "The whole email is about free shipping on your first box ending 31 December. The plan says that perk doesn't apply to gifts, which already ship free. Line 6 also thanks the reader for 'thinking of us when you looked for a thoughtful present', then pushes a monthly box for themselves. The plan says gift buyers don't get E6, and sequence.md says they get Email 1 only.",
-      "fix": "Remove this version from the gift-buyer group (ask Umaid before deleting), so gift buyers aren't sent E6."
+      "problem": "Still not fixed. \"This is your last chance\" is banned fake urgency. \"At the launch price\" suggests a deal, but the email never gives a real price, which goes against the price and savings rule.",
+      "fix": "Remove the urgency. Give the real price and what's in the box, for example \"Your box is $X a month and holds three loose-leaf teas.\" Only mention a launch price if one really exists, and then say what it is."
     },
     {
-      "file": "campaigns/steep-club-launch/groups/gift-buyers/emails/03-new-year-ritual.md",
-      "line": 20,
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 12,
       "severity": "medium",
-      "problem": "This repeats the 31 December free-shipping perk and the monthly renewal to gift buyers. Sequence.md says gift buyers get only Email 1 from this set, because Emails 2 to 4 are about a date that doesn't apply to gifts. The plan's matching email for this group is E5g, 'a gift for after the holidays'.",
-      "fix": "Drop this version for gift buyers (ask Umaid first), and write E5g instead: birthdays and thank-yous, the buyer picks the start month, $72 or $144, shipping is free."
+      "problem": "Still not fixed. There is a second link in the body (\"Read about our teas\"). The email rules allow only one main link.",
+      "fix": "Delete this line, or fold the idea into the text around the single \"Start your box\" button."
     },
     {
-      "file": "campaigns/steep-club-launch/groups/gift-buyers/emails/01-were-open.md",
-      "line": 8,
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 10,
       "severity": "medium",
-      "problem": "'A calm moment in a friend's afternoon, every month' suggests the gift keeps arriving with no end. Gifts last a fixed 3 or 6 months. The email also contradicts itself. It opens by thanking the reader for thinking of someone else, pitches a box for them instead, then asks 'Looking for a present instead?' on line 28. The plan says the gift-buyer version should lead with gifts.",
-      "fix": "Lead with the gift: '3 or 6 months of tea, prepaid, with no renewal.' Move the gift facts from line 28 near the top. Use 'Send a box as a gift' as the button text, with the same steep-club link. Put the monthly box second, as a short 'or start your own box' line."
-    },
-    {
-      "file": "campaigns/steep-club-launch/groups/daily-drinkers/emails/03-new-year-ritual.md",
-      "line": 8,
-      "severity": "low",
-      "problem": "Line 6 wishes daily tea drinkers 'plenty of cups of tea', and line 8 then tells them to swap an afternoon coffee for tea. This group already drinks tea every day. The pitch doesn't fit them and sounds like we don't know who they are. (Email 01 for this group has the same issue with its subject line, 'Swap one coffee for a calm cup'.)",
-      "fix": "For this group, change the idea to swapping the usual tea bag for loose-leaf: 'swap one everyday tea bag for something a little better.' Give the 01 subject the same angle, e.g. 'A step up from your usual tea bag'."
-    },
-    {
-      "file": "campaigns/steep-club-launch/emails/01-were-open.md",
-      "line": 1,
-      "severity": "low",
-      "problem": "The subject is 'Swap one coffee for a calm cup', but sequence.md says Version A, the one 'in the file', is 'The Steep Club is open'. The A/B test notes no longer match the email, so the wrong pair of subjects could get tested. The three group copies of email 01 have the same mismatch.",
-      "fix": "Choose one subject. Then update either the Subject line in the email 01 files or the test table in sequence.md so they agree."
+      "problem": "Still not fixed. The email asks people to join but never says when they pay, when the box renews, or how to skip or cancel. The voice guide says launch emails must say this.",
+      "fix": "Add a line near the button, for example: \"You pay for your 5 January box on the day you join, and your next payment is on 1 February. Your box renews on the 1st of each month, and you can skip or cancel in one click from your account anytime before then.\""
     }
   ]
 }

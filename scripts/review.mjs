@@ -36,10 +36,33 @@ function findClaude() {
   return "claude";
 }
 
+// Folder names are compared in one form, so "campaigns\\x\\" and "campaigns/x" match.
+const folderKey = path.relative(root, path.resolve(root, folder)).split(path.sep).join("/");
+
+// If the last review was of this same folder, pass its findings along so the
+// new review only reports problems that are new or still not fixed.
+function readPreviousFindings() {
+  if (!existsSync(outPath)) return null;
+  try {
+    const previous = JSON.parse(readFileSync(outPath, "utf8"));
+    if (previous.folder === folderKey && Array.isArray(previous.findings)) return previous.findings;
+  } catch {
+    // A broken or old-format findings file just means a fresh review.
+  }
+  return null;
+}
+
+const previousFindings = readPreviousFindings();
 const schema = readFileSync(schemaPath, "utf8");
-const prompt =
-  `Review every email in ${folder} against brand/voice.md and .claude/rules/emails.md. ` +
+let prompt =
+  `Review every email in ${folderKey} against brand/voice.md and .claude/rules/emails.md. ` +
   `Report only real problems.`;
+if (previousFindings) {
+  prompt +=
+    `\n\nThese are findings from the last review. Report only problems that are new or still not fixed. ` +
+    `Don't repeat ones that have been fixed.\n\n` +
+    JSON.stringify(previousFindings, null, 2);
+}
 
 const run = spawnSync(
   findClaude(),
@@ -65,12 +88,12 @@ if (!output || !Array.isArray(output.findings)) {
 }
 
 mkdirSync(path.dirname(outPath), { recursive: true });
-writeFileSync(outPath, JSON.stringify(output, null, 2) + "\n");
+writeFileSync(outPath, JSON.stringify({ folder: folderKey, findings: output.findings }, null, 2) + "\n");
 
 const count = { high: 0, medium: 0, low: 0 };
 for (const f of output.findings) count[f.severity] = (count[f.severity] ?? 0) + 1;
 
 console.log(
-  `${folder}: ${output.findings.length} findings (${count.high} high, ${count.medium} medium, ${count.low} low) → review/findings.json`,
+  `${folderKey}${previousFindings ? ` (compared with ${previousFindings.length} earlier findings)` : ""}: ${output.findings.length} findings (${count.high} high, ${count.medium} medium, ${count.low} low) → review/findings.json`,
 );
 process.exit(count.high > 0 ? 1 : 0);
