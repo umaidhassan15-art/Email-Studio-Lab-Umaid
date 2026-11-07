@@ -7,7 +7,7 @@ We hope you've had a restful few days away from the screen.
 
 We're not going to ask you for big resolutions. Just one small idea for the new year: swap one afternoon coffee for a cup of tea.
 
-That's what The Steep Club is for. Put the kettle on between video calls, steep for a few minutes, and take a calm moment before the rest of your day. It's a small ritual, and it's easy to keep.
+That's what The Steep Club is for. Put the kettle on between meetings, steep for a few minutes, and take a calm moment before the rest of your day. It's a small ritual, and it's easy to keep.
 
 **Your first box ships on 5 January**, right at the start of the year. Inside:
 

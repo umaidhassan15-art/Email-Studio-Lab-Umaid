@@ -1,11 +1,11 @@
 Subject: A calmer afternoon, starting in January
-Preview: No big resolutions. Just one small swap: a calm cup instead of one coffee.
+Preview: No big resolutions. Just one small swap: loose-leaf tea instead of the usual bag.
 
 Hi {{first_name}},
 
 We hope you've had a restful few days, with plenty of cups of tea.
 
-We're not going to ask you for big resolutions. Just one small idea for the new year: swap one afternoon coffee for a cup of tea.
+We're not going to ask you for big resolutions. Just one small idea for the new year: swap your usual afternoon tea bag for a loose-leaf cup.
 
 That's what The Steep Club is for. Put the kettle on as you would for your usual afternoon cup, steep for a few minutes, and take a calm moment before the rest of your day. It's a small ritual, and it's easy to keep.
 

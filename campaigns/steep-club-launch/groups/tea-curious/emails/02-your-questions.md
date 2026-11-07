@@ -21,7 +21,7 @@ Boxes ship on the 5th of each month. **Your first box ships on 5 January.**
 Shipping is normally $4.50. Join by 31 December and your first box ships free.
 
 **Do I need any special kit?**
-No. Your first box comes with a steeping card that gives you the time and temperature for each tea, plus a small reusable strainer. A kettle and a mug are all you need, even on a busy work-from-home afternoon.
+No. Your first box comes with a steeping card that gives you the time and temperature for each tea, plus a small reusable strainer. A kettle and a mug are all you need, even on a busy afternoon.
 
 **How do I skip or cancel?**
 Your box renews on the 1st of each month. You can skip or cancel in one click from your account anytime before then. You'll find it under My Account → Steep Club.

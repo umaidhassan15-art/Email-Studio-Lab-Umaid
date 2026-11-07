@@ -5,7 +5,7 @@ Hi {{first_name}},
 
 Thanks for waiting with us, and for being curious about loose-leaf tea. The Steep Club is open, and you can start your box today.
 
-Each month we send you a small box of good tea, so you don't have to pick from a long menu. It's a calm moment for your work-from-home afternoon, between one screen and the next.
+Each month we send you a small box of good tea, so you don't have to pick from a long menu. It's a calm moment in a busy afternoon, between one screen and the next.
 
 **What's in your first box**
 

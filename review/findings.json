@@ -1,26 +1,4 @@
 {
   "folder": "campaigns/steep-club-launch",
-  "findings": [
-    {
-      "file": "campaigns/steep-club-launch/groups/daily-drinkers/emails/03-new-year-ritual.md",
-      "line": 8,
-      "severity": "medium",
-      "problem": "This group already drinks tea every day, but the email asks them to swap an afternoon coffee for tea. Two lines later it says 'Put the kettle on as you would for your usual afternoon cup', which contradicts that. The preview line ('a calm cup instead of one coffee') has the same mismatch.",
-      "fix": "Change the 'one small idea' to a swap that fits this group, for example: 'swap your usual afternoon tea bag for a loose-leaf cup.' Change the preview to match, such as 'No big resolutions. Just one small swap: loose-leaf tea instead of the usual bag.'"
-    },
-    {
-      "file": "campaigns/steep-club-launch/groups/daily-drinkers/emails/01-were-open.md",
-      "line": 1,
-      "severity": "low",
-      "problem": "The subject 'Swap one coffee for a calm cup' is aimed at coffee drinkers, but this group already drinks tea every day. The body speaks to them about stepping up from tea bags, so the subject doesn't match the opening.",
-      "fix": "Use a subject about the step up from bags, for example 'A step up from your everyday tea bag' (35 characters)."
-    },
-    {
-      "file": "campaigns/steep-club-launch/groups/tea-curious/emails/01-were-open.md",
-      "line": 8,
-      "severity": "low",
-      "problem": "'Your work-from-home afternoon' assumes every beginner works from home. The voice guide only says they 'often' do, so this line will feel off to people who work in an office. Email 03 for this group does the same thing ('away from the screen', 'between video calls').",
-      "fix": "Make it softer, for example: 'a calm moment in a busy afternoon, between one screen and the next.' In 03, change 'between video calls' to 'between meetings' or just 'in the afternoon'."
-    }
-  ]
+  "findings": []
 }

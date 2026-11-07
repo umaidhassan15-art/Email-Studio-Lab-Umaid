@@ -1,4 +1,4 @@
-Subject: Swap one coffee for a calm cup
+Subject: A step up from your everyday tea bag
 Preview: Three loose-leaf teas, a steeping card and a strainer, for $24 a month.
 
 Hi {{first_name}},
