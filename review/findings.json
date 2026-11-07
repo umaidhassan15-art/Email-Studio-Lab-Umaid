@@ -1,33 +1,26 @@
 {
-  "folder": "campaigns/test-bad",
+  "folder": "campaigns/steep-club-launch",
   "findings": [
     {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 2,
-      "severity": "high",
-      "problem": "Still not fixed. The preview says \"Last chance to join before the doors close.\" This is fake urgency. \"Last chance\" is on the banned list, and nothing says the doors are closing.",
-      "fix": "Use a friendly, honest preview, for example \"Your first monthly box of loose-leaf tea is ready when you are.\""
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
+      "file": "campaigns/steep-club-launch/groups/daily-drinkers/emails/03-new-year-ritual.md",
       "line": 8,
-      "severity": "high",
-      "problem": "Still not fixed. \"This is your last chance\" is banned fake urgency. \"At the launch price\" suggests a deal, but the email never gives a real price, which goes against the price and savings rule.",
-      "fix": "Remove the urgency. Give the real price and what's in the box, for example \"Your box is $X a month and holds three loose-leaf teas.\" Only mention a launch price if one really exists, and then say what it is."
+      "severity": "medium",
+      "problem": "This group already drinks tea every day, but the email asks them to swap an afternoon coffee for tea. Two lines later it says 'Put the kettle on as you would for your usual afternoon cup', which contradicts that. The preview line ('a calm cup instead of one coffee') has the same mismatch.",
+      "fix": "Change the 'one small idea' to a swap that fits this group, for example: 'swap your usual afternoon tea bag for a loose-leaf cup.' Change the preview to match, such as 'No big resolutions. Just one small swap: loose-leaf tea instead of the usual bag.'"
     },
     {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 12,
-      "severity": "medium",
-      "problem": "Still not fixed. There is a second link in the body (\"Read about our teas\"). The email rules allow only one main link.",
-      "fix": "Delete this line, or fold the idea into the text around the single \"Start your box\" button."
+      "file": "campaigns/steep-club-launch/groups/daily-drinkers/emails/01-were-open.md",
+      "line": 1,
+      "severity": "low",
+      "problem": "The subject 'Swap one coffee for a calm cup' is aimed at coffee drinkers, but this group already drinks tea every day. The body speaks to them about stepping up from tea bags, so the subject doesn't match the opening.",
+      "fix": "Use a subject about the step up from bags, for example 'A step up from your everyday tea bag' (35 characters)."
     },
     {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 10,
-      "severity": "medium",
-      "problem": "Still not fixed. The email asks people to join but never says when they pay, when the box renews, or how to skip or cancel. The voice guide says launch emails must say this.",
-      "fix": "Add a line near the button, for example: \"You pay for your 5 January box on the day you join, and your next payment is on 1 February. Your box renews on the 1st of each month, and you can skip or cancel in one click from your account anytime before then.\""
+      "file": "campaigns/steep-club-launch/groups/tea-curious/emails/01-were-open.md",
+      "line": 8,
+      "severity": "low",
+      "problem": "'Your work-from-home afternoon' assumes every beginner works from home. The voice guide only says they 'often' do, so this line will feel off to people who work in an office. Email 03 for this group does the same thing ('away from the screen', 'between video calls').",
+      "fix": "Make it softer, for example: 'a calm moment in a busy afternoon, between one screen and the next.' In 03, change 'between video calls' to 'between meetings' or just 'in the afternoon'."
     }
   ]
 }

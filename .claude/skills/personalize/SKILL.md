@@ -28,6 +28,8 @@ Never copy names, email addresses or any other details about a person from `lead
 
 ## 3. Write one version per email per group
 
+Only write a version for a group that actually gets that email. If `sequence.md` (or `plan.md`) says a group doesn't get an email, for example "Gift buyers get Email 1 only", skip that email for that group and count it as skipped.
+
 Who each group is (from `brand/voice.md`):
 
 - **tea-curious**: 28 to 40, works full-time, often from home, drinks a few coffees a day, curious about loose-leaf tea but a bit put off by it. Wants a calmer afternoon.
